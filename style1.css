@@ -1,0 +1,56 @@
+body
+{
+background:url(crime-bug.jpg);
+background-size: 1000px;
+background-attachment:fixed;
+    background-position: center;
+}
+.adminregform{
+    border-radius:15px;
+    padding:20px;
+    margin:0 auto;
+    width: 500px;
+    border: 2px solid black;
+    background:dodgerblue;
+}
+.title{
+    padding:10px;
+    text-align:center;
+    color: black;
+	font-family:'Algerian',serif;
+    border-radius: 0px 0px 10px 10px;
+    background-color:white;
+}
+.form-group{
+    
+    margin-top:10px;
+}
+.form{
+	width:400px;
+	float:left;
+	background-color: aqua;
+	font-family:'Droid Serif',serif;
+	padding-left:30px;
+}
+.btnreg{
+    font-size:25;
+    color:red;
+    border-radius:100px;
+    padding:20px 40px;
+    border:none;
+    background:lightgreen;
+    margin-top:20px;
+}
+.btnreg:hover{
+    color:aqua;
+    background:white;
+}
+.adminregform:hover{
+    background:yellow;
+}
+h1{
+    color:white;
+}
+.title:hover{
+    background: blue;
+}
